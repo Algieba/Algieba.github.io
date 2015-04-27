@@ -1,13 +1,16 @@
 ---
-title       : Survival of passengers on the Titanic 
-subtitle    : Developing Data Products - Project 
-author      : Antonio Lloris Amor
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []  # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+title: "Survival of passengers on the Titanic"
+author: "Antonio Lloris Amor"
+highlighter: highlight.js
+output:
+  html_document:
+    keep_md: yes
+knit: slidify::knit2slides
+mode: selfcontained
+hitheme: tomorrow
+subtitle: Developing Data Products - Project
+framework: io2012
+widgets: []
 ---
 
 ## Introduction
